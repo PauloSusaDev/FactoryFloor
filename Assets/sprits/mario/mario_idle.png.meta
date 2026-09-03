@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 500d24ad5674958459f7826147962670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6523709533163534446
+    second: mario_idle_0
+  - first:
+      213: -2951561283428344947
+    second: mario_idle_1
+  - first:
+      213: -1278089022579280604
+    second: mario_idle_2
+  - first:
+      213: -1574656195408417405
+    second: mario_idle_3
+  - first:
+      213: 3705413672913826813
+    second: mario_idle_4
+  - first:
+      213: -3710400775304667771
+    second: mario_idle_5
+  - first:
+      213: -8902306729306015157
+    second: mario_idle_6
+  - first:
+      213: 202436188529074387
+    second: mario_idle_7
+  - first:
+      213: -7077323711610307885
+    second: mario_idle_8
+  - first:
+      213: 21211364215357701
+    second: mario_idle_9
+  - first:
+      213: 3607288601269972536
+    second: mario_idle_10
+  - first:
+      213: 5878874800391743349
+    second: mario_idle_11
+  - first:
+      213: 4590745988853875571
+    second: mario_idle_12
+  - first:
+      213: 3005593066843061722
+    second: mario_idle_13
+  - first:
+      213: -6028817447325049101
+    second: mario_idle_14
+  - first:
+      213: -6747600011821969395
+    second: mario_idle_15
+  - first:
+      213: -8084166592204108068
+    second: mario_idle_16
+  - first:
+      213: -7327960182045379558
+    second: mario_idle_17
+  - first:
+      213: 105371673022224669
+    second: mario_idle_18
+  - first:
+      213: 2381095095938831848
+    second: mario_idle_19
+  - first:
+      213: -6591417520728195340
+    second: mario_idle_20
+  - first:
+      213: 3845481787667485538
+    second: mario_idle_21
+  - first:
+      213: -1377344801600951287
+    second: mario_idle_22
+  - first:
+      213: 727290927437929972
+    second: mario_idle_23
+  - first:
+      213: 8804165206486080157
+    second: mario_idle_24
+  - first:
+      213: 2124892894285972460
+    second: mario_idle_25
+  - first:
+      213: 6600694904711589957
+    second: mario_idle_26
+  - first:
+      213: -2217102719513855739
+    second: mario_idle_27
+  - first:
+      213: -8837944985917759923
+    second: mario_idle_28
+  - first:
+      213: -8654173859337694601
+    second: mario_idle_29
+  - first:
+      213: -7401647517455505114
+    second: mario_idle_30
+  - first:
+      213: 1862581307089581636
+    second: mario_idle_31
+  - first:
+      213: -2224738600295798450
+    second: mario_idle_32
+  - first:
+      213: -6029883398187519981
+    second: mario_idle_33
+  - first:
+      213: -8933776600527701006
+    second: mario_idle_34
+  - first:
+      213: 7709026189369700032
+    second: mario_idle_35
+  - first:
+      213: 6090013007255050594
+    second: mario_idle_36
+  - first:
+      213: 5994968990148672186
+    second: mario_idle_37
+  - first:
+      213: -2429283581224947787
+    second: mario_idle_38
+  - first:
+      213: 6375200445674931806
+    second: mario_idle_39
+  - first:
+      213: -118832450152507503
+    second: mario_idle_40
+  - first:
+      213: 4397392992617285546
+    second: mario_idle_41
+  - first:
+      213: 1350775324039207329
+    second: mario_idle_42
+  - first:
+      213: -1170292690457187729
+    second: mario_idle_43
+  - first:
+      213: 1472611878811865350
+    second: mario_idle_44
+  - first:
+      213: -6199994876398286905
+    second: mario_idle_45
+  - first:
+      213: -1333590986572705156
+    second: mario_idle_46
+  - first:
+      213: 8373660159407443983
+    second: mario_idle_47
+  - first:
+      213: 390161352969986978
+    second: mario_idle_48
+  - first:
+      213: -1490312062385535146
+    second: mario_idle_49
+  - first:
+      213: 594396764768337873
+    second: mario_idle_50
+  - first:
+      213: -4462163219056870601
+    second: mario_idle_51
+  - first:
+      213: -2136666361429263323
+    second: mario_idle_52
+  - first:
+      213: 6610051750775951631
+    second: mario_idle_53
+  - first:
+      213: -7172153792696644521
+    second: mario_idle_54
+  - first:
+      213: 7069531491956168969
+    second: mario_idle_55
+  - first:
+      213: 3259398334541306639
+    second: mario_idle_56
+  - first:
+      213: 2725149404440337312
+    second: mario_idle_57
+  - first:
+      213: 4285592792652391516
+    second: mario_idle_58
+  - first:
+      213: 5799299486851530204
+    second: mario_idle_59
+  - first:
+      213: -4965777533996269663
+    second: mario_idle_60
+  - first:
+      213: 1428307177967800170
+    second: mario_idle_61
+  - first:
+      213: -3850083030679103245
+    second: mario_idle_62
+  - first:
+      213: -3316400405559340092
+    second: mario_idle_63
+  - first:
+      213: -667376689636205665
+    second: mario_idle_64
+  - first:
+      213: 5741462023197914655
+    second: mario_idle_65
+  - first:
+      213: -4827645002020263185
+    second: mario_idle_66
+  - first:
+      213: 3492138468766070150
+    second: mario_idle_67
+  - first:
+      213: -1807986300182998980
+    second: mario_idle_68
+  - first:
+      213: 1859373882771726412
+    second: mario_idle_69
+  - first:
+      213: -1946292026182100884
+    second: mario_idle_70
+  - first:
+      213: -7259980174829174098
+    second: mario_idle_71
+  - first:
+      213: 4313723490577732593
+    second: mario_idle_72
+  - first:
+      213: 4918487011621024378
+    second: mario_idle_73
+  - first:
+      213: -1514095859191429765
+    second: mario_idle_74
+  - first:
+      213: 5017405507587856047
+    second: mario_idle_75
+  - first:
+      213: 7101852531111012982
+    second: mario_idle_76
+  - first:
+      213: 8472400498307109338
+    second: mario_idle_77
+  - first:
+      213: -8240894299930285871
+    second: mario_idle_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario_idle_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29745f16eb02775a0800000000000000
+      internalID: -6523709533163534446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b157896a2f907d0800000000000000
+      internalID: -2951561283428344947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f5d93ec0534ee0800000000000000
+      internalID: -1278089022579280604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d205d7882b52ae0800000000000000
+      internalID: -1574656195408417405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_4
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df377e77a164c6330800000000000000
+      internalID: 3705413672913826813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d91a54722028cc0800000000000000
+      internalID: -3710400775304667771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a35263237a47480800000000000000
+      internalID: -8902306729306015157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a5f214a23fc200800000000000000
+      internalID: 202436188529074387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab401e49b48cd90800000000000000
+      internalID: -7077323711610307885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50102459f9b5b4000800000000000000
+      internalID: 21211364215357701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e2301eed9af0230800000000000000
+      internalID: 3607288601269972536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577685cbb75f59150800000000000000
+      internalID: 5878874800391743349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_12
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3734faf672b95bf30800000000000000
+      internalID: 4590745988853875571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_13
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addbe8058f206b920800000000000000
+      internalID: 3005593066843061722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe53844976555ca0800000000000000
+      internalID: -6028817447325049101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001ee02a85bb52a0800000000000000
+      internalID: -6747600011821969395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde089ee0554fcf80800000000000000
+      internalID: -8084166592204108068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_17
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a147af42a0bdd4a90800000000000000
+      internalID: -7327960182045379558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19d0e37afa567100800000000000000
+      internalID: 105371673022224669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_19
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5dbd9cf595b0120800000000000000
+      internalID: 2381095095938831848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb5be00b49684a0800000000000000
+      internalID: -6591417520728195340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_21
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2639728cf45ed5530800000000000000
+      internalID: 3845481787667485538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c285f4330b2ece0800000000000000
+      internalID: -1377344801600951287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_23
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5d42ce3bd71a00800000000000000
+      internalID: 727290927437929972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_24
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad47cdb9dae2a70800000000000000
+      internalID: 8804165206486080157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_25
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3caa544d22d7d10800000000000000
+      internalID: 2124892894285972460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540b01a3b016a9b50800000000000000
+      internalID: 6600694904711589957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f2d4c2d44b31e0800000000000000
+      internalID: -2217102719513855739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_28
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e5de95cdf495580800000000000000
+      internalID: -8837944985917759923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_29
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77294b90ab236e780800000000000000
+      internalID: -8654173859337694601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_30
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a9696cc0184990800000000000000
+      internalID: -7401647517455505114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4467b5694d739d910800000000000000
+      internalID: 1862581307089581636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_32
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e44bb7042021e0800000000000000
+      internalID: -2224738600295798450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f10e3ffc815ca0800000000000000
+      internalID: -6029883398187519981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_34
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb79d6d389d40480800000000000000
+      internalID: -8933776600527701006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_35
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce609d9976fbfa60800000000000000
+      internalID: 7709026189369700032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_36
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26912f65092148450800000000000000
+      internalID: 6090013007255050594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_37
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3b49a888623350800000000000000
+      internalID: 5994968990148672186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_38
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfe56a2473794ed0800000000000000
+      internalID: -2429283581224947787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_39
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56cd503703497850800000000000000
+      internalID: 6375200445674931806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197ded42482d95ef0800000000000000
+      internalID: -118832450152507503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_41
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7cebed0ada60d30800000000000000
+      internalID: 4397392992617285546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_42
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a958b0200beeb210800000000000000
+      internalID: 1350775324039207329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_43
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a201e9ff842cfe0800000000000000
+      internalID: -1170292690457187729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_44
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6011a9893b4cf6410800000000000000
+      internalID: 1472611878811865350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_45
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c907428135f9a0800000000000000
+      internalID: -6199994876398286905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72dba930122e7de0800000000000000
+      internalID: -1333590986572705156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_47
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005257ac87353470800000000000000
+      internalID: 8373660159407443983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_48
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3acd0fea12a6500800000000000000
+      internalID: 390161352969986978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_49
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657c7054319515be0800000000000000
+      internalID: -1490312062385535146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_50
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df78a355b8bf3800800000000000000
+      internalID: 594396764768337873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_51
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3d4e91363312c0800000000000000
+      internalID: -4462163219056870601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_52
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7b7bc3490952e0800000000000000
+      internalID: -2136666361429263323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_53
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0113f7bb0f9bbb50800000000000000
+      internalID: 6610051750775951631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_54
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c88df0024677c90800000000000000
+      internalID: -7172153792696644521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_55
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9091c7a9f650c1260800000000000000
+      internalID: 7069531491956168969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_56
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b95d72485bb3d20800000000000000
+      internalID: 3259398334541306639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_57
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab9883e1fca1d520800000000000000
+      internalID: 2725149404440337312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_58
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54250a50fb797b30800000000000000
+      internalID: 4285592792652391516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_59
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddf3e348204b7050800000000000000
+      internalID: 5799299486851530204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_60
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af798484a3061bb0800000000000000
+      internalID: -4965777533996269663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_61
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f49e49fcd52d310800000000000000
+      internalID: 1428307177967800170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_62
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8dc98d1e1c19ac0800000000000000
+      internalID: -3850083030679103245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_63
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c39ca5f667c9f1d0800000000000000
+      internalID: -3316400405559340092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_64
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b9bdacf600db6f0800000000000000
+      internalID: -667376689636205665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_65
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f167b106a45cdaf40800000000000000
+      internalID: 5741462023197914655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_66
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea64e8d272c00db0800000000000000
+      internalID: -4827645002020263185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_67
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68537496f61967030800000000000000
+      internalID: 3492138468766070150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_68
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d1d20a0eb8e6e0800000000000000
+      internalID: -1807986300182998980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_69
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c406f3be1b2ddc910800000000000000
+      internalID: 1859373882771726412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_70
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689d3ec6b16df4e0800000000000000
+      internalID: -1946292026182100884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_71
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2cdeafe7e5f3b90800000000000000
+      internalID: -7259980174829174098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_72
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3d42bd8ac6ddb30800000000000000
+      internalID: 4313723490577732593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_73
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a723b08b0e9f14440800000000000000
+      internalID: 4918487011621024378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_74
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75410d86d9dcfae0800000000000000
+      internalID: -1514095859191429765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_75
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6dcddc9b761a540800000000000000
+      internalID: 5017405507587856047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_76
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa414ff39de8260800000000000000
+      internalID: 7101852531111012982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_77
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad110705d53049570800000000000000
+      internalID: 8472400498307109338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario_idle_78
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d82d1ddb4672ad80800000000000000
+      internalID: -8240894299930285871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mario_idle_0: -6523709533163534446
+      mario_idle_1: -2951561283428344947
+      mario_idle_10: 3607288601269972536
+      mario_idle_11: 5878874800391743349
+      mario_idle_12: 4590745988853875571
+      mario_idle_13: 3005593066843061722
+      mario_idle_14: -6028817447325049101
+      mario_idle_15: -6747600011821969395
+      mario_idle_16: -8084166592204108068
+      mario_idle_17: -7327960182045379558
+      mario_idle_18: 105371673022224669
+      mario_idle_19: 2381095095938831848
+      mario_idle_2: -1278089022579280604
+      mario_idle_20: -6591417520728195340
+      mario_idle_21: 3845481787667485538
+      mario_idle_22: -1377344801600951287
+      mario_idle_23: 727290927437929972
+      mario_idle_24: 8804165206486080157
+      mario_idle_25: 2124892894285972460
+      mario_idle_26: 6600694904711589957
+      mario_idle_27: -2217102719513855739
+      mario_idle_28: -8837944985917759923
+      mario_idle_29: -8654173859337694601
+      mario_idle_3: -1574656195408417405
+      mario_idle_30: -7401647517455505114
+      mario_idle_31: 1862581307089581636
+      mario_idle_32: -2224738600295798450
+      mario_idle_33: -6029883398187519981
+      mario_idle_34: -8933776600527701006
+      mario_idle_35: 7709026189369700032
+      mario_idle_36: 6090013007255050594
+      mario_idle_37: 5994968990148672186
+      mario_idle_38: -2429283581224947787
+      mario_idle_39: 6375200445674931806
+      mario_idle_4: 3705413672913826813
+      mario_idle_40: -118832450152507503
+      mario_idle_41: 4397392992617285546
+      mario_idle_42: 1350775324039207329
+      mario_idle_43: -1170292690457187729
+      mario_idle_44: 1472611878811865350
+      mario_idle_45: -6199994876398286905
+      mario_idle_46: -1333590986572705156
+      mario_idle_47: 8373660159407443983
+      mario_idle_48: 390161352969986978
+      mario_idle_49: -1490312062385535146
+      mario_idle_5: -3710400775304667771
+      mario_idle_50: 594396764768337873
+      mario_idle_51: -4462163219056870601
+      mario_idle_52: -2136666361429263323
+      mario_idle_53: 6610051750775951631
+      mario_idle_54: -7172153792696644521
+      mario_idle_55: 7069531491956168969
+      mario_idle_56: 3259398334541306639
+      mario_idle_57: 2725149404440337312
+      mario_idle_58: 4285592792652391516
+      mario_idle_59: 5799299486851530204
+      mario_idle_6: -8902306729306015157
+      mario_idle_60: -4965777533996269663
+      mario_idle_61: 1428307177967800170
+      mario_idle_62: -3850083030679103245
+      mario_idle_63: -3316400405559340092
+      mario_idle_64: -667376689636205665
+      mario_idle_65: 5741462023197914655
+      mario_idle_66: -4827645002020263185
+      mario_idle_67: 3492138468766070150
+      mario_idle_68: -1807986300182998980
+      mario_idle_69: 1859373882771726412
+      mario_idle_7: 202436188529074387
+      mario_idle_70: -1946292026182100884
+      mario_idle_71: -7259980174829174098
+      mario_idle_72: 4313723490577732593
+      mario_idle_73: 4918487011621024378
+      mario_idle_74: -1514095859191429765
+      mario_idle_75: 5017405507587856047
+      mario_idle_76: 7101852531111012982
+      mario_idle_77: 8472400498307109338
+      mario_idle_78: -8240894299930285871
+      mario_idle_8: -7077323711610307885
+      mario_idle_9: 21211364215357701
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
