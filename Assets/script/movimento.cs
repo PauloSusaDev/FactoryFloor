@@ -70,10 +70,9 @@ public class movimento : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("PortalFinal"))
         {
-            Vector2 PortalFinal = new Vector2(-87f, 3f);
+            Vector2 PortalFinal = new Vector2(-87f, 6f);
             rb.transform.position = PortalFinal;
-            Debug.Log("Parabéns, você venceu!");
-            //rb.gravityScale = 0.1f;
+            rb.gravityScale = 0.1f;
         }
         if (collision.gameObject.CompareTag("Chao"))
         {
