@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Limite
   - Portal
+  - PortalFinal
+  - Chao
   layers:
   - Default
   - TransparentFX
@@ -54,6 +56,9 @@ TagManager:
     locked: 0
   - name: foreground
     uniqueID: 3606961181
+    locked: 0
+  - name: traps
+    uniqueID: 3890269625
     locked: 0
   m_RenderingLayers:
   - Default
