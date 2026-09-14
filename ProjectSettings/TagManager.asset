@@ -8,6 +8,7 @@ TagManager:
   - Portal
   - PortalFinal
   - Chao
+  - traps
   layers:
   - Default
   - TransparentFX
